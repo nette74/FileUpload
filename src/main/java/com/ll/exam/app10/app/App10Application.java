@@ -1,4 +1,4 @@
-package com.ll.exam.app10.app.home.controller;
+package com.ll.exam.app10.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
